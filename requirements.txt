@@ -1,0 +1,8 @@
+coverage
+matplotlib
+mock
+numpy
+pytest
+scikit-learn
+scipy
+ffmpeg
